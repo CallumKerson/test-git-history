@@ -1,1 +1,2 @@
 feat: an initial feature
+feat: a feature from a branch
